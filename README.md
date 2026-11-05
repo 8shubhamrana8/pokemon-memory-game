@@ -10,7 +10,7 @@ An interactive memory card game built with React[cite: 2] and the PokéAPI. Play
 
 ## 📸 Preview
 
-(https://github.com/user-attachments/assets/945bf664-9a08-4b29-9067-aac303aeae69)
+<img src="https://github.com/user-attachments/assets/945bf664-9a08-4b29-9067-aac303aeae69" alt="Pokémon Card Memory Game Preview" width="100%" height="auto" />
 
 
 
